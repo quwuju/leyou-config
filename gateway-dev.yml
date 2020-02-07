@@ -47,15 +47,15 @@ hystrix:
         isolation:
           thread:
             timeoutInMillisecond: 10000 # 熔断超时时长：10000ms
-#leyou:
+leyou:
 #  jwt:
 #    cookieName: LY_TOKEN
 #    pubKeyPath: G:\\tmp\\rsa\\rsa.pub # 公钥地址
-#  filter:
-#    allowPaths:
-#       /api/auth
-#       /api/search
-#       /api/user/register
-#       /api/user/check
-#       /api/user/code
-#       /api/item
+  filter:
+    allowPaths:
+       /api/auth
+       /api/search
+       /api/user/register
+       /api/user/check
+       /api/user/code
+       /api/item
