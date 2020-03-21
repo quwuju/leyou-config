@@ -7,11 +7,11 @@ spring:
     virtual-host: /leyou
     username: /leyou
     password: leyou
-    host: 192.168.19.121
+    host: 192.168.0.4
 
 leyou:
   sms:
-    accessKeyId: LTAIc259TULYzaS7
-    accessKeySecret: 1uh79I1UAmwQ4YWsSmOgxw7JEBGA0v
+    accessKeyId: LTAI4FuTpX83CSb1E7YBqrAh
+    accessKeySecret: aonQQbq7GJUqAX9DUCQgHQ7WughCt6
     signName: 乐优商城
-    verifyCodeTemplate: SMS_148614415
+    verifyCodeTemplate: SMS_186616154
