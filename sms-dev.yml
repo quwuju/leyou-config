@@ -5,13 +5,13 @@ spring:
     name: sms-service
   rabbitmq:
     virtual-host: /leyou
-    username: /leyou
+    username: leyou
     password: leyou
-    host: 192.168.19.121
+    host: 192.168.0.4
 
 leyou:
   sms:
-    accessKeyId: LTAIc259TULYzaS7
-    accessKeySecret: 1uh79I1UAmwQ4YWsSmOgxw7JEBGA0v
+    accessKeyId: LTAI4FqFQ1bwLuag3HvwzhMr
+    accessKeySecret: 43Gbv3l3w8SwOasDchncOQhGwDgjoA
     signName: 乐优商城
-    verifyCodeTemplate: SMS_148614415
+    verifyCodeTemplate: SMS_186616154
