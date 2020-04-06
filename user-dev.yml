@@ -1,5 +1,6 @@
 server:
   port: 8085
+  max-http-header-size: 20480
 spring:
   application:
     name: user-service
