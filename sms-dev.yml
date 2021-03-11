@@ -9,9 +9,4 @@ spring:
     password: leyou
     host: 192.168.0.4
 
-leyou:
-  sms:
-    accessKeyId: LTAI4FqFQ1bwLuag3HvwzhMr
-    accessKeySecret: 43Gbv3l3w8SwOasDchncOQhGwDgjoA
-    signName: 小武商城
-    verifyCodeTemplate: SMS_186616154
+
